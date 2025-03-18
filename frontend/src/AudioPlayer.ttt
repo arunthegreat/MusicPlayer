@@ -1,0 +1,34 @@
+// import { Button } from "react-bootstrap"
+
+// const AudioPlayer = () => {
+//     function playAudio() {
+//         const audio = new Audio("./01 Ponnoviyam_(geetham.net).wma");
+//         audio.play
+//     }
+
+//     return (
+
+//         <div id="mainwrap">
+//             <div id="nowPlay">
+//                 <span class="left" id="npAction">Paused...</span>
+//                 <span class="right" id="npTitle"></span>
+//             </div>
+//             <div id="audiowrap">
+//                 <div id="audio0">
+//                     <audio preload id="audio1" controls="controls">Your browser does not support HTML5 Audio!</audio>
+//                 </div>
+//                 <div id="tracks">
+//                     <a id="btnPrev" aria-label="Previous">&laquo;</a>
+//                     <a id="btnNext" aria-label="Next">&raquo;</a>
+//                 </div>
+//             </div>
+//         </div>
+
+//         // <div>
+//         //     <h1>Audio Player</h1>
+//         //     <Button onClick={() => playAudio()}>Play</Button>
+//         // </div >
+//     )
+// }
+
+// export default AudioPlayer

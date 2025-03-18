@@ -1,0 +1,16 @@
+.nowPlay {
+    display: inline;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.audiowrap {
+    background-color: #231F20;
+    margin: 0 auto;
+}
